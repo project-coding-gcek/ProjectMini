@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.style{
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+
+}
+
+
+.content_section{
+    padding:1em;
+
+}
+
+.button_submit>button{
+    background-color:transparent;
+    border:lightblue .1em solid;
+    border-radius:.5em;
+}
+
+.signup_style{
+    font-size:3em;
+}
